@@ -1,0 +1,14 @@
+# Java files
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.gradle/
+build/
+target/
+bin/
+.idea/
+.vscode/
+*.log
+.DS_Store
