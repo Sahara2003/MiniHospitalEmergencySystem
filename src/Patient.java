@@ -35,4 +35,4 @@ public class Patient {
                " | Contact: " + contactNumber + 
                " | Condition: " + medicalCondition;
     }
-}
+}// Patient class for hospital records
