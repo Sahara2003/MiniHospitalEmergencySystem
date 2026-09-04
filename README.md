@@ -25,3 +25,10 @@ Sahara
 
 ## Date
 September 2026
+
+
+## Data Structures Used
+- BST: Patient Records
+- Queue: Emergency Patients
+- Stack: Treatment History
+- Linked List: Visit History
