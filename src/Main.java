@@ -292,3 +292,4 @@ public class Main {
     }
 }// Version 2.0 - Improved error handling
 // Main class with console menu
+// Mini Hospital Emergency System - Version 1.0
