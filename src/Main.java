@@ -290,4 +290,4 @@ public class Main {
             }
         }
     }
-}
+}// Version 2.0 - Improved error handling
